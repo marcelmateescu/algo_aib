@@ -1,0 +1,40 @@
+body a {
+  color: #183782;
+}
+
+body .navbar-fixed-top {
+  background-color: #183782;; 
+}
+
+body .navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+body .navbar-default .navbar-nav>li>a:hover {
+  color: rgba(255,255,255, 0.75);
+}
+
+body .navbar-icon {
+  color: #fff;
+}
+
+body .navbar-icon:hover {
+  color: rgba(255,255,255, 0.75);
+}
+
+body .navbar-icon-large {
+  color: #fff;
+}
+
+#header-search-form .form-control {
+  background-color: #fff;
+}
+
+.navbar-fixed-top .btn-default {
+  background-color: #e95526;
+  color: #fff;
+}
+
+.welcome-grid a i {
+  color: #183782;
+}
